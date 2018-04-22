@@ -1,0 +1,6 @@
+RewriteEngine On
+
+RewriteRule ^home$ index.php?page_view=home
+RewriteRule ^about-us$ index.php?page_view=about-us
+RewriteRule ^services$ index.php?page_view=services
+RewriteRule ^contact$ index.php?page_view=contact
