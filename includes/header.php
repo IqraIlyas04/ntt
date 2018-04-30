@@ -1,12 +1,48 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Naresco Travels and Tourisms</title>
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-	<link rel="stylesheet" type="text/css" href="css/style.css">
-	<link rel="stylesheet" type="text/css" href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
-	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-   <script src='https://www.google.com/recaptcha/api.js'></script>
+   <title>Naresco Travels and Tourisms</title>
+   <link rel="stylesheet" href="css/bootstrap.min.css"/>
+   <link rel="stylesheet" type="text/css" href="css/style.css"/>
+   <!-- <link rel="stylesheet" type="text/css" href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css"> -->
+   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+   
+   <link rel="stylesheet" type="text/css" href="js/slick/slick.css">
+   <link rel="stylesheet" type="text/css" href="js/slick/slick-theme.css">
+   <style type="text/css">
+      
+.navbar-default .navbar-nav>li>a 
+{
+    color: #000;
+}
+
+.navbar-default .navbar-brand 
+{
+    color: #000;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #fff;
+}
+
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 0px ;
+    border: 1px solid transparent;
+    border-radius: 0px;
+}
+
+#header {
+ padding: 0px 0;
+    height: 60px;
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    z-index: 997;
+}
+   </style>
 </head>
 <body>
 <header id="header" class="">

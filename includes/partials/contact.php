@@ -19,7 +19,7 @@
 .breadcrumb a{color:#fff; text-decoration: none;}
 .breadcrumb .active{color:#fff;}
 .breadcrumb>li+li:before {padding: 0 5px;color: #fff;content: "/\00a0";}
-.page-header{color:#fff;}
+.page-header{color:#fff;  border-bottom: none; }
 .b_left{margin: 40px 0px 40px 0px; right: -7%;}
 
 .contact{padding-top:50px; padding-bottom: 50px;}
